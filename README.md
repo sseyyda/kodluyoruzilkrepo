@@ -9,6 +9,7 @@ Bu repo Kodluyoruz Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. �
 
 # Contributing
     Kodluyoruz ekibine teşekkürler!
+[Patika.dev](https://www.patika.dev/tr)
 
 # License
-
+[MIT](https://choosealicense.com/licenses/mit/)
