@@ -9,3 +9,5 @@ Bu repo Kodluyoruz Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. �
 
 # Contributing
     Kodluyoruz ekibine teşekkürler!
+
+# License
